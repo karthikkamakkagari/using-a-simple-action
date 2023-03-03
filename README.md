@@ -1,2 +1,2 @@
 # github-actions-course
-test by atin gupta
+test by Karthik
